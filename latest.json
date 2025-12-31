@@ -9,7 +9,7 @@
   "updateType": "mandatory",
 
   "assets": {
-    "zip": "https://github.com/riandte/shopcash-updates/releases/download/v12.0.2.0/ShopCash_12.0.2.0.zip",
+    "zip": "https://github.com/riandte/shopcash-updates/releases/download/v12.0.2.0/bin.zip",
     "checksum": "https://github.com/riandte/shopcash-updates/releases/download/v12.0.2.0/checksum.sha256",
     "changelog": "https://github.com/riandte/shopcash-updates/releases/download/v12.0.2.0/changelog.txt"
   },
